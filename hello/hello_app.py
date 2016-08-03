@@ -6,5 +6,4 @@ def hello():
     return "Hello World, I love continuous delivery a lot!"
 
 if __name__ == "__main__":
-    print "Running..."
     app.run()
